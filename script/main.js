@@ -27,7 +27,7 @@ const fetchData = () => {
 /* my */
 window.setTimeout(function () {
   location.href = "./letsgo.html";
-}, 48000);
+}, 50000);
 
 
 // Animation Timeline
